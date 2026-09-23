@@ -1,0 +1,6 @@
+{
+  "name": "CRISPR: Misión Genética",
+  "description": "Una experiencia interactiva y educativa sobre genética, CRISPR-Cas9 y medicina moderna para la muestra de ciencia y tecnología.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
